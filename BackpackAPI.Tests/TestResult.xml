@@ -1,0 +1,45 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!--This file represents the results of running a test suite-->
+<test-results name="C:\Users\Chris\Dev\BackpackAPI\trunk\BackpackAPI.Tests\BackpackAPI.Tests.nunit" total="23" failures="0" not-run="0" date="2008-06-04" time="12:47:20">
+  <environment nunit-version="2.4.7.0" clr-version="2.0.50727.1433" os-version="Microsoft Windows NT 6.0.6000.0" platform="Win32NT" cwd="C:\Program Files\NUnit 2.4.7\bin" machine-name="CHRIS-PC" user="Chris" user-domain="Chris-PC" />
+  <culture-info current-culture="en-US" current-uiculture="en-US" />
+  <test-suite name="C:\Users\Chris\Dev\BackpackAPI\trunk\BackpackAPI.Tests\BackpackAPI.Tests.nunit" success="True" time="33.488" asserts="0">
+    <results>
+      <test-suite name="C:\Users\Chris\Dev\BackpackAPI\trunk\BackpackAPI.Tests\bin\Debug\BackpackAPI.Tests.dll" success="True" time="33.488" asserts="0">
+        <results>
+          <test-suite name="BackpackTests" success="True" time="33.488" asserts="0">
+            <results>
+              <test-suite name="ListItemsServiceTests" success="True" time="33.468" asserts="0">
+                <results>
+                  <test-case name="BackpackTests.ListItemsServiceTests.ConvertCreateListItemResponseXmlToListItemResponseObjectShouldBeOfListItemResponseType" executed="True" success="True" time="3.906" asserts="1" />
+                  <test-case name="BackpackTests.ListItemsServiceTests.ConvertListItemsListResponseXmlToListItemsListResponseObjectShouldBeOfListItemsListResponseType" executed="True" success="True" time="1.692" asserts="1" />
+                  <test-case name="BackpackTests.ListItemsServiceTests.CreatedListItemShouldHaveSameDataAsThatUsedToCreateIt" executed="True" success="True" time="1.382" asserts="1" />
+                  <test-case name="BackpackTests.ListItemsServiceTests.CreatingAListItemShouldReturnListItem" executed="True" success="True" time="1.092" asserts="1" />
+                  <test-case name="BackpackTests.ListItemsServiceTests.CreatingAListItemShouldReturnTrue" executed="True" success="True" time="1.142" asserts="1" />
+                  <test-case name="BackpackTests.ListItemsServiceTests.CreatingAListItemShouldReturnXml" executed="True" success="True" time="1.392" asserts="1" />
+                  <test-case name="BackpackTests.ListItemsServiceTests.DeletingAListItemShouldReturnTrue" executed="True" success="True" time="1.382" asserts="1" />
+                  <test-case name="BackpackTests.ListItemsServiceTests.DeletingAListItemShouldReturnXml" executed="True" success="True" time="1.011" asserts="1" />
+                  <test-case name="BackpackTests.ListItemsServiceTests.ListingListItemsShouldReturnListItems" executed="True" success="True" time="1.432" asserts="1" />
+                  <test-case name="BackpackTests.ListItemsServiceTests.ListingListItemsShouldReturnTrue" executed="True" success="True" time="1.232" asserts="1" />
+                  <test-case name="BackpackTests.ListItemsServiceTests.ListingListItemsShouldReturnXml" executed="True" success="True" time="0.921" asserts="1" />
+                  <test-case name="BackpackTests.ListItemsServiceTests.MovingAListItemHigherShouldReturnTrue" executed="True" success="True" time="1.372" asserts="1" />
+                  <test-case name="BackpackTests.ListItemsServiceTests.MovingAListItemHigherShouldReturnXml" executed="True" success="True" time="0.981" asserts="1" />
+                  <test-case name="BackpackTests.ListItemsServiceTests.MovingAListItemLowerShouldReturnTrue" executed="True" success="True" time="1.162" asserts="1" />
+                  <test-case name="BackpackTests.ListItemsServiceTests.MovingAListItemLowerShouldReturnXml" executed="True" success="True" time="1.072" asserts="1" />
+                  <test-case name="BackpackTests.ListItemsServiceTests.MovingAListItemToTheBottomShouldReturnTrue" executed="True" success="True" time="1.472" asserts="1" />
+                  <test-case name="BackpackTests.ListItemsServiceTests.MovingAListItemToTheBottomShouldReturnXml" executed="True" success="True" time="2.273" asserts="1" />
+                  <test-case name="BackpackTests.ListItemsServiceTests.MovingAListItemToTheTopShouldReturnTrue" executed="True" success="True" time="1.512" asserts="1" />
+                  <test-case name="BackpackTests.ListItemsServiceTests.MovingAListItemToTheTopShouldReturnXml" executed="True" success="True" time="1.642" asserts="1" />
+                  <test-case name="BackpackTests.ListItemsServiceTests.TogglingAListItemShouldReturnTrue" executed="True" success="True" time="1.342" asserts="1" />
+                  <test-case name="BackpackTests.ListItemsServiceTests.TogglingAListItemShouldReturnXml" executed="True" success="True" time="1.422" asserts="1" />
+                  <test-case name="BackpackTests.ListItemsServiceTests.UpdatingAListItemShouldReturnTrue" executed="True" success="True" time="1.282" asserts="1" />
+                  <test-case name="BackpackTests.ListItemsServiceTests.UpdatingAListItemShouldReturnXml" executed="True" success="True" time="1.292" asserts="1" />
+                </results>
+              </test-suite>
+            </results>
+          </test-suite>
+        </results>
+      </test-suite>
+    </results>
+  </test-suite>
+</test-results>

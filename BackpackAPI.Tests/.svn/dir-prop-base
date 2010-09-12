@@ -1,0 +1,10 @@
+K 10
+svn:ignore
+V 83
+obj
+bin
+BackpackAPI.Tests.csproj.user
+App.config
+BackpackAPI.Tests.VisualState.xml
+
+END

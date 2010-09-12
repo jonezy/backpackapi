@@ -1,0 +1,101 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="3.5" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>9.0.21022</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{A5D0394A-7BD4-4B7A-846C-E80D78FFE712}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>jonezy.org.BackpackAPI</RootNamespace>
+    <AssemblyName>BackpackAPI</AssemblyName>
+    <TargetFrameworkVersion>v3.5</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core">
+      <RequiredTargetFramework>3.5</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="System.Data" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="BackpackDispatcher.cs" />
+    <Compile Include="BackpackObject\ListItems.cs" />
+    <Compile Include="BackpackObject\ListItem.cs" />
+    <Compile Include="BackpackObject\Requests\ListItemUpdateRequest.cs" />
+    <Compile Include="BackpackObject\Requests\ListItemCreateRequest.cs" />
+    <Compile Include="BackpackObject\Requests\ListItemMoveRequest.cs" />
+    <Compile Include="BackpackObject\Requests\ListRequest.cs" />
+    <Compile Include="BackpackObject\Requests\NoteRequest.cs" />
+    <Compile Include="BackpackObject\Responses\BackpackResponse.cs" />
+    <Compile Include="BackpackObject\Responses\ListItemsCreateResponse.cs" />
+    <Compile Include="BackpackObject\Responses\JournalCreateResponse.cs" />
+    <Compile Include="BackpackObject\Responses\ListItemsListResponse.cs" />
+    <Compile Include="BackpackObject\Responses\ListListsResponse.cs" />
+    <Compile Include="BackpackObject\Responses\ListResponse.cs" />
+    <Compile Include="BackpackObject\Responses\NoteResponse.cs" />
+    <Compile Include="BackpackObject\Responses\NotesListResponse.cs" />
+    <Compile Include="BackpackObject\Responses\StatusesListResponse.cs" />
+    <Compile Include="BackpackObject\Statuses.cs" />
+    <Compile Include="BackpackObject\Status.cs" />
+    <Compile Include="BackpackObject\Journals.cs" />
+    <Compile Include="BackpackObject\User.cs" />
+    <Compile Include="BackpackObject\Journal.cs" />
+    <Compile Include="BackpackObject\Lists.cs" />
+    <Compile Include="BackpackObject\List.cs" />
+    <Compile Include="BackpackObject\Notes.cs" />
+    <Compile Include="BackpackObject\Token.cs" />
+    <Compile Include="BackpackObject\Note.cs" />
+    <Compile Include="Base\BackpackBase.cs" />
+    <Compile Include="ListItemsService.cs" />
+    <Compile Include="Interfaces\IListItemsService.cs" />
+    <Compile Include="ListsService.cs" />
+    <Compile Include="Helper\ExtensionMethods.cs" />
+    <Compile Include="Interfaces\IBackpackObject.cs" />
+    <Compile Include="Interfaces\IBackpackResponse.cs" />
+    <Compile Include="Interfaces\IJournalService.cs" />
+    <Compile Include="Interfaces\IListsService.cs" />
+    <Compile Include="Interfaces\INotesService.cs" />
+    <Compile Include="Interfaces\IPageService.cs" />
+    <Compile Include="Interfaces\ISeparatorService.cs" />
+    <Compile Include="Interfaces\IStatusService.cs" />
+    <Compile Include="Interfaces\ITagsService.cs" />
+    <Compile Include="Interfaces\IUserService.cs" />
+    <Compile Include="JournalService.cs" />
+    <Compile Include="NotesService.cs" />
+    <Compile Include="PageService.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="SeparatorService.cs" />
+    <Compile Include="StatusService.cs" />
+    <Compile Include="TagsService.cs" />
+    <Compile Include="UserService.cs" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

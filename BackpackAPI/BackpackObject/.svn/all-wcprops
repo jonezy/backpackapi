@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/53/trunk/BackpackAPI/BackpackObject
+END
+List.cs
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/46/trunk/BackpackAPI/BackpackObject/List.cs
+END
+Statuses.cs
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/50/trunk/BackpackAPI/BackpackObject/Statuses.cs
+END
+Journals.cs
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/47/trunk/BackpackAPI/BackpackObject/Journals.cs
+END
+ListItems.cs
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/50/trunk/BackpackAPI/BackpackObject/ListItems.cs
+END
+User.cs
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/50/trunk/BackpackAPI/BackpackObject/User.cs
+END
+Lists.cs
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/46/trunk/BackpackAPI/BackpackObject/Lists.cs
+END
+Token.cs
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/37/trunk/BackpackAPI/BackpackObject/Token.cs
+END
+Status.cs
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/50/trunk/BackpackAPI/BackpackObject/Status.cs
+END
+Note.cs
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/40/trunk/BackpackAPI/BackpackObject/Note.cs
+END
+Notes.cs
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/46/trunk/BackpackAPI/BackpackObject/Notes.cs
+END
+Journal.cs
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/47/trunk/BackpackAPI/BackpackObject/Journal.cs
+END
+ListItem.cs
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/52/trunk/BackpackAPI/BackpackObject/ListItem.cs
+END

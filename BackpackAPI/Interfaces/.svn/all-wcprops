@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/50/trunk/BackpackAPI/Interfaces
+END
+IStatusService.cs
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/27/trunk/BackpackAPI/Interfaces/IStatusService.cs
+END
+IBackpackObject.cs
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/36/trunk/BackpackAPI/Interfaces/IBackpackObject.cs
+END
+INotesService.cs
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/30/trunk/BackpackAPI/Interfaces/INotesService.cs
+END
+IJournalService.cs
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/27/trunk/BackpackAPI/Interfaces/IJournalService.cs
+END
+IPageService.cs
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/33/trunk/BackpackAPI/Interfaces/IPageService.cs
+END
+IBackpackResponse.cs
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/22/trunk/BackpackAPI/Interfaces/IBackpackResponse.cs
+END
+IListItemsService.cs
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/50/trunk/BackpackAPI/Interfaces/IListItemsService.cs
+END
+ITagsService.cs
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/33/trunk/BackpackAPI/Interfaces/ITagsService.cs
+END
+IListsService.cs
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/45/trunk/BackpackAPI/Interfaces/IListsService.cs
+END
+IUserService.cs
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/27/trunk/BackpackAPI/Interfaces/IUserService.cs
+END
+ISeparatorService.cs
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/30/trunk/BackpackAPI/Interfaces/ISeparatorService.cs
+END

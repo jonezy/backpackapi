@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 34
+/svn/!svn/ver/59/trunk/BackpackAPI
+END
+JournalService.cs
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/48/trunk/BackpackAPI/JournalService.cs
+END
+PageService.cs
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/48/trunk/BackpackAPI/PageService.cs
+END
+ListItemsService.cs
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/53/trunk/BackpackAPI/ListItemsService.cs
+END
+ListsService.cs
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/48/trunk/BackpackAPI/ListsService.cs
+END
+TagsService.cs
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/48/trunk/BackpackAPI/TagsService.cs
+END
+UserService.cs
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/48/trunk/BackpackAPI/UserService.cs
+END
+SeparatorService.cs
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/48/trunk/BackpackAPI/SeparatorService.cs
+END
+BackpackAPI.csproj
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/59/trunk/BackpackAPI/BackpackAPI.csproj
+END
+StatusService.cs
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/50/trunk/BackpackAPI/StatusService.cs
+END
+BackpackDispatcher.cs
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/40/trunk/BackpackAPI/BackpackDispatcher.cs
+END
+NotesService.cs
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/48/trunk/BackpackAPI/NotesService.cs
+END

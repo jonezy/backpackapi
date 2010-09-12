@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BackpackAPI", "BackPackAPI\BackpackAPI.csproj", "{A5D0394A-7BD4-4B7A-846C-E80D78FFE712}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BackpackAPI.Tests", "BackpackAPI.Tests\BackpackAPI.Tests.csproj", "{417EC0DC-9343-48B8-B683-5BEF642F2CBC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A5D0394A-7BD4-4B7A-846C-E80D78FFE712}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A5D0394A-7BD4-4B7A-846C-E80D78FFE712}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A5D0394A-7BD4-4B7A-846C-E80D78FFE712}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A5D0394A-7BD4-4B7A-846C-E80D78FFE712}.Release|Any CPU.Build.0 = Release|Any CPU
+		{417EC0DC-9343-48B8-B683-5BEF642F2CBC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{417EC0DC-9343-48B8-B683-5BEF642F2CBC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{417EC0DC-9343-48B8-B683-5BEF642F2CBC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

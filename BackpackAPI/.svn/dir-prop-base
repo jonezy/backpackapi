@@ -1,0 +1,9 @@
+K 10
+svn:ignore
+V 44
+bin
+obj
+TestResults
+BackpackAPI.csproj.user
+
+END
